@@ -1,6 +1,7 @@
 ---
 title: Home
 date: 2016-07-27 23:00:00 Z
+position: 0
 ---
 
 # Test
